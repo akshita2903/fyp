@@ -1,0 +1,7 @@
+age(int number)
+gender(male,female,trans)
+family_history(Yes/No)
+self_employed(Yes/No)
+treatment(Yes/No)
+work_interfere(Never,Rarely,Sometimes,Often)
+
